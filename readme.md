@@ -31,6 +31,9 @@ Implement the following tasks:
 
 ## Style!💄🐷
 Add `normalize.css` and your own styles
+Add :hover style to change font to red
+Add counter ('You have completed 0/2')
+ 
 
 ## Go Mobile! 📱
 Read the following two articles to format your app for mobile!
