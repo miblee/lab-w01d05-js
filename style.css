@@ -1,0 +1,30 @@
+
+.complete {
+  text-decoration: line-through;
+}
+
+
+
+
+/* BONUS FEATURES */
+li:hover {
+  background-color: pink;
+}
+
+.remove:hover {
+  font-weight: bold;
+}
+
+/*  MAKE IT PRETTY  */
+body {
+  background-color: lightgrey;
+}
+
+.remove {
+  float:right;
+  /*border:1px solid black;*/
+}
+
+#counter {
+  position: bottom;
+}
